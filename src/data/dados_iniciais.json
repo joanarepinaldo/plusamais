@@ -1,0 +1,186 @@
+{
+  "categorias": [
+    {
+      "titulo": "Casamentos",
+      "link": "https://www.instagram.com/plusamaisfilmes/?hl=pt-br",
+      "cor": "#E53935",
+      "link_extra": {
+        "text": "Gostou? Entre em contato conosco ",
+        "url": "https://api.whatsapp.com/send?phone=Telefone&text=Mensagem"
+      },
+      "videos": [
+        {
+          "titulo": "Plus A Mais Vídeo Produtora",
+          "url": "https://www.youtube.com/watch?v=a60dIlRyHP8"
+        },
+        {
+          "titulo": "Wedding Samara e Lucas",
+          "url": "https://www.youtube.com/watch?v=rcK5MbPVNqc&t=8s"
+        },
+        {
+          "titulo": "Casamento Lilian ❤ Tales",
+          "url": "https://www.youtube.com/watch?v=yY-Yh1RcfSQ"
+        },
+        {
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+        },
+        {
+          "titulo": "Wedding Pedro & Aline",
+          "url": "https://www.youtube.com/watch?v=gwawz-tbeZs"
+        },
+        {
+          "titulo": "Teaser Casamento Talyta & Maury",
+          "url": "https://www.youtube.com/watch?v=ES_7VAgygtU"
+        },
+        {
+          "titulo": "Teaser Casamento Demétrius & Ana Paula",
+          "url": "https://www.youtube.com/watch?v=NS0udI_8sn8"
+        },
+        {
+          "titulo": "Teaser Casamento João & Evelyn",
+          "url": "https://www.youtube.com/watch?v=OYjYi-CN6Tk"
+        }        
+      ]
+    },
+    {
+      "titulo": "15 anos",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Gostou? Entre em contato conosco ",
+        "url": "https://api.whatsapp.com/send?phone=Telefone&text=Mensagem"
+       },
+      "videos": [
+        {
+          "titulo": "Teaser 15 anos Lara",
+          "url": "https://www.youtube.com/watch?v=JgJk2cKHX_U"
+        },
+        {
+          "titulo": "Teaser Maria Clara",
+          "url": "https://www.youtube.com/watch?v=e1vLm0hEALU"
+        },
+        {
+          "titulo": "Teaser 15 anos Raquel",
+          "url": "https://www.youtube.com/watch?v=WrY_dhzs4ZM"
+        },
+        {
+          "titulo": "Teaser 15 anos Ana Livia",
+          "url": "https://www.youtube.com/watch?v=sMOygfoT6XQ"
+        }, 
+        {
+          "titulo": "Teaser 15 anos Ana Flavia",
+          "url": "https://www.youtube.com/watch?v=60D7ihEpOMY"
+        }
+      ]
+    },
+    {
+      "titulo": "Pré-Wedding",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Gostou? Entre em contato conosco ",
+        "url": "https://api.whatsapp.com/send?phone=Telefone&text=Mensagem"
+       },
+      "videos": [
+        {
+          "titulo": "Pré-wedding Samara e Lucas",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "Pré Casamento",
+          "url": "https://www.youtube.com/watch?v=fj28-Pr9428"
+        },
+        {
+          "titulo": "Pré Casamento Silmara X José",
+          "url": "https://www.youtube.com/watch?v=lVzIsXo9cuE"
+        },
+        {
+          "titulo": "Retrospectiva animada - Elias e Jessica",
+          "url": "https://www.youtube.com/watch?v=XgKb7s7Y-gI"
+        }
+      ]
+    },
+    {
+      "titulo": "Empresas",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Gostou? Entre em contato conosco ",
+        "url": "https://api.whatsapp.com/send?phone=Telefone&text=Mensagem"
+       },
+      "videos": [
+        {
+          "titulo": "35 ANOS SICREDI",
+          "url": "https://www.youtube.com/watch?v=B5_T7N8N82c"
+        },
+        {
+          "titulo": "RETROSPECTIVA SICREDI NORTE SUL 2019",
+          "url": "https://www.youtube.com/watch?v=jORGABs8QUU"
+        },
+        {
+          "titulo": "Dia C Sto Ant da Platina ALTA",
+          "url": "https://www.youtube.com/watch?v=i76zAT8kjGA"
+        },
+        {
+          "titulo": "APAE SERTANÓPOLIS - PR - DEPOIMENTO PAI OTÁVIO",
+          "url": "https://www.youtube.com/watch?v=DdJEI_Byz1U"
+        }
+      ]
+    },
+    {
+      "titulo": "Família",
+      "cor": "#f3c546",
+      "link_extra": {
+        "text": "Gostou? Entre em contato conosco ",
+        "url": "https://api.whatsapp.com/send?phone=Telefone&text=Mensagem"
+       },
+      "videos": [
+        {
+          "titulo": "TEASER NIVER ROSE",
+          "url": "https://www.youtube.com/watch?v=OCQqgZP95Kk"
+        },
+        {
+          "titulo": "Ensaio família Busetti (Photograph)",
+          "url": "https://www.youtube.com/watch?v=5Fi9aqHmca8"
+        },
+        {
+          "titulo": "TEASER LAURA",
+          "url": "https://www.youtube.com/watch?v=T_N_9cSzKzU"
+        },
+        {
+          "titulo": "Teaser 1 ano Davi Lucas",
+          "url": "https://www.youtube.com/watch?v=VAeXpxxTEY8"
+        },
+        {
+          "titulo": "Teaser 1 ano Isabella",
+          "url": "https://www.youtube.com/watch?v=eInmiLojfsY"
+        }
+      ]
+    },
+    {
+      "titulo": "Formatura",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Gostou? Entre em contato conosco ",
+        "url": "https://api.whatsapp.com/send?phone=Telefone&text=Mensagem"
+       },
+      "videos": [
+        {
+          "titulo": "TEaser Colação História",
+          "url": "https://www.youtube.com/watch?v=bBP_4jaZ9yw"
+        },
+        {
+          "titulo": "Teaser Baile Formatura ok",
+          "url": "https://www.youtube.com/watch?v=6MtaKc_VMFA"
+        },
+        {
+          "titulo": "Colação Pedagogia UENP",
+          "url": "https://www.youtube.com/watch?v=Bx_VUYQHGp0"
+        },
+        {
+          "titulo": "Teaser direito ok",
+          "url": "https://www.youtube.com/watch?v=e_NLcWXsbB0"
+        }
+        
+      ]
+    }
+  ]
+}

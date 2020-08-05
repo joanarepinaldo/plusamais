@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+:root {
+  --primary: rgb(12, 12, 12);
+  --black:  rgb(12, 12, 12);
+  --blackLight: #5e5e5e;
+  --blackLighter: #9E9E9E;
+  --grayLight: #F5F5F5;
+  --grayMedium: #e5e5e5; 
+  --white: #FFFFFF;
+  --red:#E53935;
+  --frontEnd: #e7917c;
+  --backEnd: #802222;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+} 
+ 
+#root{
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  background: rgb(19, 19, 19);
+  display: flex;
+  flex-direction: column;
+
+}

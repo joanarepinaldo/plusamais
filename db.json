@@ -1,0 +1,16 @@
+{
+    "categorias":[
+        {
+            "id": 1,
+            "nome":"Casamento",
+            "descricao": "Uma categoria",
+            "cor": "#cbd1ff"
+        },
+        {
+            "id": 2,
+            "nome":"Pre-Wedding",
+            "descricao": "Uma categoria",
+            "cor": "#cbd1ff"
+        }
+    ]
+}
