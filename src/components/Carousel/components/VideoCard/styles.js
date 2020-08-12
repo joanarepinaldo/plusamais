@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const VideoCardContainer = styled.a`
   border: 2px solid;
-  
+  border-radius: 4px;
   text-decoration: none;
   overflow: hidden;
   cursor: pointer;
@@ -18,16 +18,36 @@ export const VideoCardContainer = styled.a`
   display: flex;
   align-items: flex-end;
   padding: 16px;
-
-  transition: opacity .3s;
-  &:hover {
-   z-index: 1;
-      
-   transform: scale(1.2) translateY(30px) ;
-  
-  }
+  opacity: .5;
   
   &:not(:first-child) {
     margin-left: 20px;
+  }
+  transition: .5s;
+  &:hover,
+  &:focus {
+    opacity: 1
+  }
+  &:hover p,
+  &:focus p {
+    display:inline;
+  }
+  @media (max-width: 800px) {
+    opacity: 1
+  }
+`; // fim dos estilos do VideoCardContainer
+
+// Novo componente abaixo (<p>)
+
+export const VideoCardBanner = styled.p`
+  width: 100%;
+  padding: 10px;
+  position: absolute;
+  bottom: -16px;
+  margin-left: -16px;
+  display: none;
+  transition: 300ms;
+  @media (max-width: 800px) {
+    display: inline;
   }
 `;

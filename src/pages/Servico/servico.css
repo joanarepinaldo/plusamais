@@ -1,0 +1,18 @@
+#lista{
+
+    font-size: 20px;
+  line-height: 21px;
+    
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+    display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ align-items: flex-start;
+ 
+  @media(max-width: 800px) {
+    font-size:40px;
+    width: 100%;
+  }
+}

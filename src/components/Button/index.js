@@ -2,22 +2,19 @@ import styled from "styled-components";
 
 //https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
 
-const Button = styled.button`
+const Button = styled.h1`
 
   color: var(--white);
-  background-color: var(--red);
-  border: 1px solid var(--white);
-  box-sizing: border-box;
-  cursor: pointer;
-  padding: 16px 24px;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 16px;
-  outline: none;
-  border-radius: 5px;
+  justify-content: space-between;
+  text-transform: uppercase;
+  background: transparent;
+  display: block;
+   font-size: 20px; 
+    position: relative;
   text-decoration: none;
-  display: inline-block;
+  text-transform: uppercase;
   transition: opacity .3s;
+  
 
   &:hover,
   &:focus {
